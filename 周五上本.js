@@ -1,6 +1,6 @@
-var consignee = "邓月" //输入你的观影人姓名
-var consigneePhonr = "13933965050" // 输入观影人手机号
-var id = "599351225407324160" //不知道怎么拿ID的问Daisy
+var consignee = "你的身份证名字" //输入你的观影人姓名
+var consigneePhonr = "你的手机号" // 输入观影人手机号
+var id = "你的观影人ID以5开头的" //不知道怎么拿ID的问Daisy
 var day = 1
 
 var projectId = ""
