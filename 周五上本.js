@@ -33,7 +33,7 @@ async function step0() {
     search = await searchResponse.json()
     if (search.code === 200) {
       var records = search.data.records
-      if (records.length > 1) {
+      if (records.length > 0) {
         var record = records[0]
         projectId = record.projectId
         productId = record.productId
